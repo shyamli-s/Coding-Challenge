@@ -27,12 +27,12 @@ To run this program and obtain the required output, follow these steps:
 1. Clone this repository to your local folder:
 
    ```
-   git clone https://github.com/your-username/boarding-pass-seat-decoder.git
+   git clone https://github.com/shyamli-s/Coding-Challenge.git
 
 2. Change to your local project directory:
 
    ```
-   cd boarding-pass-seat-decoder
+   cd Coding-Challenge
    ```
 
 3. Run the script
